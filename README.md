@@ -1,4 +1,6 @@
 # Based On: Astro Starter Kit: Minimal
+First you need to deploy a contract using Remix. Please follow instruction in this link -> _https://cll-devrel.gitbook.io/javascript-for-blockchain-master-class/building-a-frontend__ 
+there will be a penalty to pay at the time of the change.
 
 ```sh
 npm create astro@latest -- --template minimal
